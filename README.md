@@ -12,7 +12,7 @@ studying on SENAI. <br><br> I really like programming and i'd love to help you o
 
 <h1>🌐 What languages and services i have experience in? 🌐</h1>
 <p>Well, i have alot of experience in some things, those being:</p>
-<ul>
+<ul align="justify">
  <li>Linux</li>
  <li>Lua</li>
  <li>AI development</li>
