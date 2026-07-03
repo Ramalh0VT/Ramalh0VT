@@ -13,20 +13,24 @@ studying on SENAI. <br><br> I really like programming and i'd love to help you o
 <h1>🌐 What languages and services i have experience in? 🌐</h1>
 <p>Well, i have alot of experience in some things, those being:</p>
 <ul align="justify">
- <li>Linux</li>
- <li>Lua</li>
+ <li>Linux🐧</li>
+ <li>Lua🌕</li>
  <li>AI development</li>
- <li>Python</li>
+ <li>Python 🐍</li>
  <li>Object oriented programming</li>
  <li>Web development</li>
- <li>Game development (Especially coding, but i also know how to model)</li>
+ <li>JavaScript</li>
+ <li>🎮Game development🎮</li>
  <li>PHP</li>
  <li>CSS and HTML</li>
- <li>Thumbnail development , SEO and marketing knowledge(Related to YouTube)</li
- >
- <li>Video editing(kdenlive)</li>
+ <li>🌎Marketing and design</li>
+ <li>Video editing</li>
+ <li>🎢Kdenlive🎢</li>
 </ul>
-<p>
+</p>
+<h1>What am i currently working at?</h1>
+<p>Now, i'm working at game development on Roblox and on my YouTube channels (Ramalh0VT and my secondary channel, Ramalh0TV).<br><br>Feel free to contact me at my email: gustavorcontato42@gmail.com // Or my discord: ramalh0vt. <br><br>Have a good one!
+</p>
 </div>
 <!--
 **Ramalh0VT/Ramalh0VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
