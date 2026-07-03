@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="center">
 
+# Ramalh0VT ➡️➡️➡️  About me!
+<br>
+<p>
+Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a system analyst and developer, 
+studying on SENAI. <br> I really like programming and i'd love to help you or your company to have great systems, and thus, better services to your clients. <br> I believe serving people is part of the path to happiness
+</p>
+</div>
+
+<h1> What i like to do? </h1>
+<p>I love to program, especially when we talk about doing things such as games, and art. But i also LOVE to program</p>
 <!--
 **Ramalh0VT/Ramalh0VT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
