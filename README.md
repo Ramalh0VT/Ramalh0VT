@@ -32,7 +32,7 @@ studying on SENAI. <br><br> I really like programming and i'd love to help you o
 <p>Now, i'm working at game development on Roblox and on my YouTube channels (Ramalh0VT and my secondary channel, Ramalh0TV).</p>
 <h1>📱 Where can i talk to you? 📱</h1>
 <p>
-Feel free to contact me at my email: gustavorcontato42@gmail.com // Or my discord: ramalh0vt. <br><br>Have a good one!
+Feel free to contact me at my email: gustavorcontato42@gmail.com // Or my discord: ramalh0vt. <br><br><b>Have a good one!</b>
 </p>
 </div>
 
