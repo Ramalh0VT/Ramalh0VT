@@ -1,16 +1,11 @@
 <div align="center">
 
-<style>
-br{
-user-select:none;
-}
-</style>
 
 # Ramalh0VT ➡️➡️➡️  About me!
 <br>
 <p>
 Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a system analyst and developer, 
-studying on SENAI. <br><br> I really like programming and i'd love to help you or your company to have great systems, and thus, better services to your clients. <br> I believe serving people is part of the path to happiness.
+studying on SENAI. <br><br> I really like programming and i'd love to help you or your company to have great systems, and thus, better services to your clients. <br> I believe serving people is part of the path to happiness.<br><br>I speak english, portuguese and spanish, you can talk to me in those languages and i will be able to communicate with you. My english level is fluent, my portuguese level is native and my spanish level is advanced.'
 </p>
 
 <h1> What am i passionate with? </h1>
