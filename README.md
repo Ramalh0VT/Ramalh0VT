@@ -15,16 +15,12 @@ studying on SENAI. <br><br> I really like programming and i'd love to help you o
 <p>Well, i have alot of experience in some things, those being:</p>
 <ul align="justify">
  <li>Linux🐧</li>
- <li>Lua🌕</li>
- <li>AI development</li>
+ <li>Lua/luau🌕</li>
+ <li>🎮Game development🎮</li>
  <li>Python 🐍</li>
  <li>Object oriented programming</li>
  <li>Web development</li>
- <li>JavaScript</li>
- <li>🎮Game development🎮</li>
- <li>PHP</li>
- <li>CSS and HTML</li>
- <li>🌎Marketing and design</li>
+ <li>JS, PHP, CSS, HTML... :P</li>
  <li>Video editing</li>
  <li>🎢Kdenlive🎢</li>
 </ul>
