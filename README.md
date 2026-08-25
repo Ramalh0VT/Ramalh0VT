@@ -14,16 +14,20 @@ studying on SENAI. <br><br> I really like programming and i'd love to help you o
 <h1>🌐 What languages and services i have experience in? 🌐</h1>
 <p>Some of the services/languages i find enjoyable and easy to do, use or program with are:</p>
 <ul align="justify">
- <li>Lua/luau🌕</li>
  <li>🎮Game development🎮</li>
- <li>🌐Web development(JS,CSS,HTML...)🌐</li>
+ <li>🌐Web development🌐</li>
+ <li>🤖AI development🤖</li>
  <li>Linux🐧</li>
- <li>🎢Video editing🎢</li>
+ <li>💻Cybersecurity💻</li>
+ <li>Lua/luau🌕</li>
+ <li>JavaScript</li>
+ <li>CSS and HTML</li>
+ <li>🛢SQL🛢</li>
 </ul>
 </p>
 <h1>What am i currently working at?</h1>
-<p>Now, i'm working at game developmen
-t on Roblox and on my YouTube channels (Ramalh0VT and my secondary channel, Ramalh0TV).</p>
+<p>Currently, i'm working on game developmen
+t at Roblox, artificial inteligences , at web development related things that you probably already heard of and on my YouTube channels (Ramalh0VT and my secondary channel, Ramalh0TVV).</p>
 <h1>📱 Where can <strong>you</strong> talk to me? 📱</h1>
 <p>
 Feel free to contact me at my email: gustavorcontato42@gmail.com <br><br><b>Have a good one!</b>
