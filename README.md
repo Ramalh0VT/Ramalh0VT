@@ -1,36 +1,35 @@
 <div align="center">
 
-
 # Ramalh0VT ➡️➡️➡️  About me!
 <br>
 <p>
-Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a system analyst and developer, 
-studying on SENAI. <br><br> I really like programming and i'd love to help you or your company to have greater services, and with that, happier clients! <br> I believe serving people is part of the path to happiness.<br><br>I speak english, portuguese and spanish, my english level is fluent, my portuguese level is native and my spanish level is advanced.'
+Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a software developer who just loves how technology works , even on it's most deep layers. I really enjoy being part of projects related to game development, cybersecurity, Lua projects (since it's my favorite programming language), AI development and training, among other things.
 </p>
-
-<h1> What am i passionate with? </h1>
-<p>I <b>LOVE</b> to program, especially when we talk about doing things such as games and art. <br><br>But i also LOVE to program to make things such as websites, i like adaptability because it's a key element to being happy as you won't be rigid and will be able to enjoy every single moment no matter what!<br><br> Oh and i <b>R E A L L Y</b> like linux XD</p>
-
-<h1>🌐 What languages and services i have experience in? 🌐</h1>
-<p>Some of the services/languages i find enjoyable and easy to do, use or program with are:</p>
-<ul align="justify">
- <li>🎮Game development🎮</li>
- <li>🌐Web development🌐</li>
- <li>🤖AI development🤖</li>
- <li>Linux🐧</li>
- <li>💻Cybersecurity💻</li>
- <li>Lua/luau🌕</li>
- <li>JavaScript</li>
- <li>CSS and HTML</li>
- <li>🛢SQL🛢</li>
-</ul>
-</p>
-<h1>What am i currently working at?</h1>
-<p>Currently, i'm working on game developmen
-t at Roblox, artificial inteligences , at web development related things that you probably already heard of and on my YouTube channels (Ramalh0VT and my secondary channel, Ramalh0TVV).</p>
-<h1>📱 Where can <strong>you</strong> talk to me? 📱</h1>
+<br>
 <p>
-Feel free to contact me at my email: gustavorcontato42@gmail.com <br><br><b>Have a good one!</b>
+But someting that is important to me is to be work on projects that really add something, not just empty projects that are, for example, just for earning money. I'm passionate with things that have a purpose. Another thing that is important to me, is that although AI advances in automating code, i still firmly believe that humans still play a huge part in coding, software engeneering, software architecture and other things. I believe being more human is something that will make a huge difference in a not so far future where everything is becoming a whole bunch of AI slop.
 </p>
+<br>
+<p>
+(Although i like some of the advantages that ai gave us, and i like ai developing anyway sooooo...)
+</p>
+<br>
+<h1>Services i have experience with </h1>
+<ul align="justify">
+    <li>Linux🐧</li>
+    <li>Lua☾</li>
+    <li>Cybersecurity🛡️</li>
+    <li>Game development🕹️</li>
+    <li>AI development🤖</li>
+    <li>Database management⛁</li>
+    <li>Web development🌐</li>
+    <li>UI/UX🎨</li>
+    <li>Agents orchestration🎻</li>
+</ul>
+<br>
+<h1>My contact</h1>
+<p>gustavorcontato42@gmail.com</p>
+<br>
+<h2><b>Have a great day :)</b><h2>
 </div>
 
