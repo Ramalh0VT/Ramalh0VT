@@ -25,6 +25,6 @@ But someting that is important to me is to be work on projects that really add s
 <h1>My contact</h1>
 <p>gustavorcontato42@gmail.com</p>
 <br>
-<h2><b>Have a great day :)</b><h2>
+<p><b>Have a great day :)</b></p>
 </div>
 
