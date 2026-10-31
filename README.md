@@ -7,12 +7,7 @@ Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a software developer who just lo
 </p>
 <br>
 <p>
-But someting that is important to me is to be work on projects that really add something, not just empty projects that are, for example, just for earning money. I'm passionate with things that have a purpose. Another thing that is important to me, is that although AI advances in automating code, i still firmly believe that humans still play a huge part in coding, software engeneering, software architecture and other things. I believe being more human is something that will make a huge difference in a not so far future where everything is becoming a whole bunch of AI slop.
-</p>
-<br>
-<p>
-(Although i like some of the advantages that ai gave us, and i like ai developing anyway sooooo...)
-</p>
+But someting that is important to me is to be work on projects that really add something, not just empty projects that are, for example, just for earning money. I'm passionate with things that have a purpose. </p>
 <br>
 <h1>Services i have experience with </h1>
 <ul align="justify">
