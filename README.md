@@ -3,7 +3,7 @@
 # Ramalh0VT ➡️➡️➡️  About me!
 <br>
 <p align="justify">
-Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a software developer who just loves how technology works , even on it's most deep layers. I really enjoy being part of projects related to game development, cybersecurity, Lua projects (since it's my favorite programming language), AI development and training, among other things.
+Hi! I'm Ramalh0VT. My real name is Gustavo, i'm a software developer who just loves how technology works , even on it's most deep layers. I really enjoy being part of projects related to, cybersecurity, game development, AI development and training, web development, among other things.
 </p>
 <br>
 <p align="justify">
