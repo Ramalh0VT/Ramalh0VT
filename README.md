@@ -11,14 +11,14 @@ But someting that is important to me is to be work on projects that really add s
 <h1>Services i have experience with </h1>
 <ul align="justify">
     <li>Linux🐧</li>
-    <li>Lua☾</li>
+    <li>Agents orchestration🎻</li>
     <li>Cybersecurity🛡️</li>
-    <li>Game development🕹️</li>
     <li>AI development🤖</li>
+    <li>Lua☾</li>
+    <li>Game development🕹️</li>
     <li>Database management⛁</li>
     <li>Web development🌐</li>
     <li>UI/UX🎨</li>
-    <li>Agents orchestration🎻</li>
 </ul>
 <h1>My contact</h1>
 <p>gustavorcontato42@gmail.com</p>
